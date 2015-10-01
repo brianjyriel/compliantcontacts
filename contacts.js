@@ -1,5 +1,5 @@
 /**
- *
+ * Thursdays WOD
  *
  * Created by brianjyriel on 10/1/15.
  */
