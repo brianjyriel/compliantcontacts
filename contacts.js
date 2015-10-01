@@ -112,7 +112,7 @@ var ContactList = function() {
   };
 
   /**
-   * Sorts the contact list once it is called.
+   * Sorts the contact list once it is called. Implemented Underscore function
    * @returns {Array}
    */
   this.listContacts = function() {
